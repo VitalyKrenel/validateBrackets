@@ -4,7 +4,7 @@ You have an expression containing of different types of brackets. Expression isn
 You have to return `true` if the supplied expression is correct. 
 Otherwise, the position of the last unpaired bracket.
 
-Input restrictions: `1 ≤ expression length ≤ 105`
+Input restrictions: `1 ≤ expression length ≤ 10^5`
 
 ```
 Input: []
