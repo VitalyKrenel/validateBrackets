@@ -1,4 +1,4 @@
-### Problem 
+### Problem: Are brackets balanced?
 You have an expression containing of different types of brackets. Expression isn't required to contain only brackets - there are may be any other characters.
 
 You have to return `true` if the supplied expression is correct. 
