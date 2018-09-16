@@ -1,0 +1,19 @@
+{
+  "name": "validate-braces",
+  "version": "1.0.0",
+  "description": "Braces expression validation - validation of strings consisting of the following character: ()[]. The number of the opening braces should match the number of closing ones and also all braces should be paired correctly - each '(' has it's own ')', each '[' has it's own ']'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0"
+  }
+}
